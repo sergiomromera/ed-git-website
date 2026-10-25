@@ -1,6 +1,6 @@
 # Green Bikes website
 
-Website of 
+Website of
 **Green Bikes**, a bike rental shop.
 
 ## Technologies
@@ -14,3 +14,4 @@ Website of
 2. Open `index.html` in your browser.
 
 Online version: <https://github.com/sergiomromera/ed-git-website>
+URL of the website: https://sergiomromera.github.io/ed-git-website/
